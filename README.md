@@ -32,11 +32,12 @@
 
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Gishankrishka2&row=1&no-bg=true)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Gishankrishka2&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/TharukRenuja)
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gishankrishka2&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gishankrishka2&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 ---
 
@@ -45,7 +46,9 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
 ---
-![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
+- <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Gishankrishka2&style=flat&color=brightgreen"> 
+- <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/TharukRenuja?label=Followers&style=social"> 
+---
 
 
 
