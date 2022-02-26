@@ -51,7 +51,7 @@
 - <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/gishankrishka2?label=Followers&style=social"> 
 ---
 
-<img height="300" width="500" src="https://user-images.githubusercontent.com/96438111/155849098-14225f78-8717-470e-b59d-84c57180a2a0.png">
+<img height="600" width="1000" src="https://user-images.githubusercontent.com/96438111/155849098-14225f78-8717-470e-b59d-84c57180a2a0.png">
 
 
                                               Joined GitHub
