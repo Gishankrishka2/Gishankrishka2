@@ -8,8 +8,12 @@
   </a>
 </h1>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+new+romen&color=%23F70000&size=38&lines=Hi+I'm+Gishan+Krishka)](https://git.io/typing-svg)
 
+---
+
+<img align="right" alt="GIF" height="300px" src="https://github.com/Gishankrishka2/Gishankrishka2/blob/main/Gifs/daftpunktocat-guy.gif" />
 
 - 👋 Hi, I’m @Gishankrishka2
 - 👀 I’m interested in ...
