@@ -1,3 +1,16 @@
+<h1 align="center">
+  <a target="_blank">
+    <img src="" width="24px" style="max-width:100%;">
+  </a>
+  𝐇𝐞𝐥𝐥𝐨!!!
+  <a target="_blank">
+    <img src="" width="40px" />
+  </a>
+</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+new+romen&color=%23F70000&size=38&lines=Hi+I'm+Gishan+Krishka)](https://git.io/typing-svg)
+
+
 - 👋 Hi, I’m @Gishankrishka2
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -28,12 +41,7 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
 ---
-
-
-
-
-
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
 
 
 
