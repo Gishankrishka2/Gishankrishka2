@@ -30,7 +30,7 @@
     </a>
 </p>
 
-<img align="right" alt="GIF" height="300px" src="https://github.com/Gishankrishka2/Gishankrishka2/blob/main/Gifs/main-qimg-6416cf11fd0bf68650a07136838bb49d.gif" />
+<img align="right" alt="GIF" height="250px" src="https://github.com/Gishankrishka2/Gishankrishka2/blob/main/Gifs/main-qimg-6416cf11fd0bf68650a07136838bb49d.gif" />
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Gishankrishka2&row=1&no-bg=true)
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gishankrishka2&show_icons=true&count_private=true&theme=great-gatsby) </br>
