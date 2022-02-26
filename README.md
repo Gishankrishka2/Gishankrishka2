@@ -30,6 +30,8 @@
     </a>
 </p>
 
+<img align="right" alt="GIF" height="325px" src="https://github.com/Gishankrishka2/Gishankrishka2/blob/main/Gifs/main-qimg-6416cf11fd0bf68650a07136838bb49d.gif" />
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=Gishankrishka2&row=1&no-bg=true)
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gishankrishka2&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gishankrishka2&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
@@ -38,7 +40,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://github.com/Gishankrishka2/Gishankrishka2/blob/main/Gifs/5eeea355389655.59822ff824b72.gif" />
 
 ### Spotify Playing 🎧
 
@@ -46,7 +48,6 @@
 
 ---
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
-
 
 
 
