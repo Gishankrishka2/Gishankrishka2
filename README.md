@@ -47,7 +47,7 @@
 
 ---
 - <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Gishankrishka2&style=flat&color=brightgreen"> 
-- <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/TharukRenuja?label=Followers&style=social"> 
+- <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/gishankrishka2?label=Followers&style=social"> 
 ---
 
 
