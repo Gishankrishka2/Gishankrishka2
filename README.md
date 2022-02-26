@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - ## Follow me on
-- [![Telegram Contact](https://img.shields.io/badge/Contact%20On-Telegram-blue)](https://t.me/gishankrishka1)
-- [![Yt Channel ](https://img.shields.io/badge/You-Tube-red)](https://www.youtube.com/channel/UCW0Z3BTxIJF6HAmN6AWUebQ)
+- [![Telegram Contact](https://badges.aleen42.com/src/telegram.svg)](https://t.me/gishankrishka1)
+- [![Yt Channel ](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/channel/UCW0Z3BTxIJF6HAmN6AWUebQ)
 
 
 <!---
