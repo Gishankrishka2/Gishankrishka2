@@ -54,9 +54,9 @@
 <img height="600" width="1000" src="https://user-images.githubusercontent.com/96438111/155849098-14225f78-8717-470e-b59d-84c57180a2a0.png">
 
 
-                                              Joined GitHub
-                                           on December 20, 2021
-
+                                                            Joined GitHub
+                                                         on December 20, 2021
+   
 
 <!---
 gishanandtharusha/gishanandtharusha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
