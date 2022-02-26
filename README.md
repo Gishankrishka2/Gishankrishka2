@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - ## Follow me on
 - [![Telegram Contact](https://img.shields.io/badge/Contact%20On-Telegram-blue)](https://t.me/gishankrishka1)
-- [![You Tube](/youtube/UCW0Z3BTxIJF6HAmN6AWUebQ/50/:UCW0Z3BTxIJF6HAmN6AWUebQ)
+- [![Yt Channel ](https://img.shields.io/badge/You-Tube-red)](https://www.youtube.com/channel/UCW0Z3BTxIJF6HAmN6AWUebQ)
 
 
 <!---
