@@ -40,7 +40,7 @@
 
 ---
 ## Contribution Graph
-[![Gishan's github activity graph](https://activity-graph.herokuapp.com/graph?username=gishankrishka2&theme=react-dark)](https://github.com/Gishankrishka2/github-readme-activity-graph)
+[![Gishan's github activity graph](https://activity-graph.herokuapp.com/graph?gishankrishka2=Ashutosh00710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 <img align="right" alt="GIF" height="150px" src="https://github.com/Gishankrishka2/Gishankrishka2/blob/main/Gifs/5eeea355389655.59822ff824b72.gif" />
