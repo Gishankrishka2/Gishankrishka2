@@ -37,8 +37,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gishankrishka2&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 ---
-#### Contribution Graph
+## Contribution Graph
 [![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=gishankrishka2&theme=react-dark)](https://github.com/Gishankrishka2/github-readme-activity-graph)
 
 ---
