@@ -26,7 +26,7 @@
 
 <details>
 
-  <summary> • My Github Stats • </summary>
+  <summary> • 👈My Github Stats • </summary>
   
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gishankrishka2&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
