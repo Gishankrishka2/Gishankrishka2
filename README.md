@@ -24,8 +24,12 @@
 - [![Telegram Contact](https://badges.aleen42.com/src/telegram.svg)](https://t.me/gishankrishka1)
 - [![Yt Channel ](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/channel/UCW0Z3BTxIJF6HAmN6AWUebQ)
 
+<details>
 
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gishankrishka2&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  <summary> • My Github Stats • </summary>
+  
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gishankrishka2&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
@@ -35,6 +39,7 @@
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+</details>
 
 ---
 <img align="right" alt="GIF" height="150px" src="https://github.com/Gishankrishka2/Gishankrishka2/blob/main/Gifs/5eeea355389655.59822ff824b72.gif" />
