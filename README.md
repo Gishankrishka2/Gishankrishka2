@@ -41,7 +41,6 @@
 
 </details>
 
----
 <img align="right" alt="GIF" height="150px" src="https://github.com/Gishankrishka2/Gishankrishka2/blob/main/Gifs/5eeea355389655.59822ff824b72.gif" />
 
 <details>
@@ -52,6 +51,8 @@
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=gishankrishka2&theme=dark&repo=legendbotsl)](https://github.com/gishankrishka2/legendbotsl)
 
 </details>
+
+---
 
 ### Spotify Playing 🎧
 
