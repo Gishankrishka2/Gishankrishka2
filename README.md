@@ -44,6 +44,15 @@
 ---
 <img align="right" alt="GIF" height="150px" src="https://github.com/Gishankrishka2/Gishankrishka2/blob/main/Gifs/5eeea355389655.59822ff824b72.gif" />
 
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/gishankrishka2?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
+
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=gishankrishka2&theme=dark&repo=legendbotsl)](https://github.com/gishankrishka2/legendbotsl)
+
+</details>
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
@@ -53,7 +62,6 @@
 - <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/gishankrishka2?label=Followers&style=social"> 
 ---
 
-<img height="600" width="1000" src="https://user-images.githubusercontent.com/96438111/155849098-14225f78-8717-470e-b59d-84c57180a2a0.png">
 
 
                                                             Joined GitHub
