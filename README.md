@@ -41,7 +41,7 @@
 
 </details>
 
-<img align="right" alt="GIF" height="150px" src="https://github.com/Gishankrishka2/Gishankrishka2/blob/main/Gifs/5eeea355389655.59822ff824b72.gif" />
+
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
@@ -53,6 +53,7 @@
 </details>
 
 ---
+<img align="right" alt="GIF" height="150px" src="https://github.com/Gishankrishka2/Gishankrishka2/blob/main/Gifs/5eeea355389655.59822ff824b72.gif" />
 
 ### Spotify Playing 🎧
 
