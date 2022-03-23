@@ -49,7 +49,8 @@
 ![Metrics](https://metrics.lecoq.io/gishankrishka2?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=gishankrishka2&theme=dark&repo=legendbotsl)](https://github.com/gishankrishka2/legendbotsl)
-
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=gishankrishka2&theme=dark&repo=Music_Player)](https://github.com/gishankrishka2/Music_Player)
+  
 </details>
 
 ---
