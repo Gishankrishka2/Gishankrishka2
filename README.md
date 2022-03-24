@@ -24,10 +24,8 @@
 - [![Telegram Contact](https://badges.aleen42.com/src/telegram.svg)](https://t.me/gishankrishka1)
 - [![Yt Channel ](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/channel/UCW0Z3BTxIJF6HAmN6AWUebQ)
 
-<details>
 
-  <summary>  👈My Github Stats  </summary>
-  
+- ## My Github Stats
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gishankrishka2&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
