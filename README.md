@@ -47,6 +47,7 @@
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=gishankrishka2&theme=dark&repo=legendbotsl)](https://github.com/gishankrishka2/legendbotsl)
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=gishankrishka2&theme=dark&repo=Music_Player)](https://github.com/gishankrishka2/Music_Player)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=gishankrishka2&theme=dark&repo=Session_gen_bot)](https://github.com/teamAlphaTg/Session_gen_bot)
   
 </details>
 
