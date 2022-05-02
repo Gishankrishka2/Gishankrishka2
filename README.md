@@ -35,6 +35,7 @@
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gishankrishka2&show_icons=true&count_private=true&theme=great-gatsby) </br>
 # MOST USED LANGUAGES
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=gishankrishka2&theme=dark&show_icons=true)
+
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 </details>
