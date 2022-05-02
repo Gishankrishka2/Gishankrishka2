@@ -33,8 +33,8 @@
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Gishankrishka2&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/gishankrishka2)
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gishankrishka2&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gishankrishka2&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
-</br>
+# MOST USED LANGUAGES
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=gishankrishka2&theme=dark&show_icons=true)
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 </details>
