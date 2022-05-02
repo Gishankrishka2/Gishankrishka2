@@ -66,8 +66,8 @@
 
 
 
-                                                            Joined GitHub
-                                                         on December 20, 2021
+                                                   Joined GitHub
+                                                on December 20, 2021
    
 
 <!---
